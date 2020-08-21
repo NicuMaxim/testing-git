@@ -1,0 +1,13 @@
+package com.studying;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        // testing git
+
+        System.out.println("Hello World");
+
+
+    }
+}
