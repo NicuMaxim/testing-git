@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Hello World #4");
 
 
-        System.out.println("something new 1");
+        System.out.println("something new 2");
 
     }
 }
